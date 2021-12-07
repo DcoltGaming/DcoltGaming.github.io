@@ -1,0 +1,26 @@
+@import "../TemplateCode/navBar.css";
+@import "../TemplateCode/footer.css";
+
+body {
+  background-color: whitesmoke;
+  margin: 0px;
+}
+
+#about-us-section {
+  text-align: center;
+}
+
+#about-us-section img {
+  width: 25%;
+  height: auto;
+}
+
+p,
+h4 {
+  display: inline-block;
+}
+
+#vodafone {
+  color: #e60000;
+  font-weight: bold;
+}

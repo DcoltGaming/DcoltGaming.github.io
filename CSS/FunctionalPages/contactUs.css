@@ -1,0 +1,30 @@
+@import "../TemplateCode/navBar.css";
+
+#body-text {
+  text-align: center;
+}
+
+body {
+  background-color: whitesmoke;
+  margin: 0px;
+}
+
+#body-text p {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+#subscribe-button {
+  color: whitesmoke;
+  background-color: red;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #333a3d;
+  color: whitesmoke;
+  text-align: center;
+}

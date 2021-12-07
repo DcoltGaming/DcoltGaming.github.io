@@ -1,0 +1,17 @@
+@import "../TemplateCode/navBar.css";
+@import "../TemplateCode/Footer.css";
+@import "blogMaster.css";
+
+#blog-flex-box {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#blog-flex-box > div {
+  margin: 20px;
+}
+
+.flex-box-article {
+  flex: 1 0 40%;
+  padding: 10px;
+}

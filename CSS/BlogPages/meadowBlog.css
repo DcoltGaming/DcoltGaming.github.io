@@ -1,0 +1,21 @@
+@import "../TemplateCode/navBar.css";
+@import "../TemplateCode/Footer.css";
+@import "blogMaster.css";
+
+.sustainability-flex-box {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: space-around;
+  margin-left: 15vw;
+  margin-right: 15vw;
+}
+
+.sustainability-flex-box > div {
+  margin: 10px;
+}
+
+#sustainability-1 {
+  margin-top: 0;
+}

@@ -1,0 +1,85 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333a3d;
+  color: whitesmoke;
+}
+
+#blogTitle {
+  font-size: 1.5rem;
+  margin: 0.5rem;
+}
+
+#navLinks {
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+nav li {
+  list-style: none;
+}
+
+nav li a {
+  text-decoration: none;
+  color: whitesmoke;
+  padding: 1rem;
+  display: block;
+}
+
+nav li:hover {
+  background-color: #555;
+}
+
+label[for="hamburger-toggle"] {
+  display: none;
+}
+
+input[type="checkbox"] {
+  display: none;
+}
+
+@media only screen and (max-width: 400px) {
+  .hamburger {
+    display: flex;
+  }
+
+  #navLinks {
+    display: none;
+    width: 100%;
+  }
+
+  nav {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  #navLinks {
+    width: 100%;
+    flex-direction: column;
+  }
+
+  #navLinks {
+    text-align: center;
+  }
+
+  #navLinks a {
+    padding: 0.5rem 1rem;
+  }
+
+  #hamburger-toggle:checked ~ #navLinks {
+    display: block;
+  }
+
+  label[for="hamburger-toggle"] {
+    display: block;
+    position: absolute;
+    top: 0.75rem;
+    right: 1rem;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 30px;
+    height: 21px;
+  }
+}

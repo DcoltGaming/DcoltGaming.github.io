@@ -1,0 +1,17 @@
+@import "../TemplateCode/navBar.css";
+@import "blogGrid.css";
+@import "../TemplateCode/footer.css";
+
+/* Main body css */
+body {
+  background-color: whitesmoke;
+  margin: 0px;
+}
+
+.blogHeading {
+  text-transform: capitalize;
+}
+
+#compliance-badges {
+  text-align: center;
+}
