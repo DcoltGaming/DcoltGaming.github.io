@@ -40,3 +40,10 @@ body {
 h1 {
   color: red;
 }
+
+#social-sharing-buttons {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  flex-wrap: wrap;
+}
