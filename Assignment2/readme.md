@@ -1,6 +1,6 @@
 ![Banner image](readme-header.png)
 
-Assignment 2: Manipulating the DOM
+# Assignment 2: Manipulating the DOM
 
 <!-- Add buttons here -->
 
