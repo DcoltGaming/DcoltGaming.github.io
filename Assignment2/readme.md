@@ -11,15 +11,7 @@ This is my code entry for the second assignment of the Udacity Front End nanodeg
 ![Screenshot Example 1](screenshots/screenshot1.PNG)
 ![Screenshot Example 2](screenshots/screenshot2.PNG)
 
-
-<!-- After you have written about your project, it is a good idea to have a demo/preview(**video/gif/screenshots** are good options) of your project so that people can know what to expect in your project. You could also add the demo in the previous section with the product description.
-Here is a random GIF as a placeholder.
-![Random GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) -->
-
 # Table of contents
-
-<!-- After you have introduced your project, it is a good idea to add a **Table of contents** or **TOC** as **cool** people say it. This would make it easier for people to navigate through your README and find exactly what they are looking for.
-Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README. -->
 
 - [Demo-Preview](#demo-preview)
 - [Table of contents](#table-of-contents)
@@ -35,7 +27,7 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
 
 To use this project, first clone the repo on your device using the command below:
 ```git init```
-```git clone https://github.com/navendu-pottekkat/nsfw-filter.git``` 
+```git clone https://github.com/DcoltGaming/DcoltGaming.github.io/blob/main/Assignment2``` 
 
 From here, you will be able to load the index.html file.
 
