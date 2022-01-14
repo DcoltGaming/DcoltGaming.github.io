@@ -128,4 +128,8 @@ Leave a star in GitHub, give a clap in Medium and share this guide if you found 
 
 <!-- Add the footer here -->
 
-<!-- ![Footer](https://github.com/navendu-pottekkat/awesome-readme/blob/master/fooooooter.png) -->
+![footer badge](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
+
+![Footer](https://github.com/navendu-pottekkat/awesome-readme/blob/master/fooooooter.png)
+
+
