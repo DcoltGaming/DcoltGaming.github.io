@@ -1,6 +1,6 @@
 ![Banner image](readme-header.png)
 
-# Assignment 2: Manipulating the DOM
+Assignment 2: Manipulating the DOM
 
 <!-- Add buttons here -->
 
@@ -19,7 +19,6 @@ Here is a random GIF as a placeholder.
 <!-- After you have introduced your project, it is a good idea to add a **Table of contents** or **TOC** as **cool** people say it. This would make it easier for people to navigate through your README and find exactly what they are looking for.
 Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README. -->
 
-- [# Assignment 2: Manipulating the DOM](#Assignment-2:-Manipulating-the-DOM)
 - [Demo-Preview](#demo-preview)
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
