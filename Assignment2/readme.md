@@ -8,8 +8,8 @@ This is my code entry for the second assignment of the Udacity Front End nanodeg
 
 # Demo-Preview
 
-![Screenshot Example 1](/screenshots/screenshot1.png)
-![Screenshot Example 2](/screenshots/screenshot2.png)
+![Screenshot Example 1](/screenshots/screenshot1.PNG)
+![Screenshot Example 2](/screenshots/screenshot2.PNG)
 
 
 <!-- After you have written about your project, it is a good idea to have a demo/preview(**video/gif/screenshots** are good options) of your project so that people can know what to expect in your project. You could also add the demo in the previous section with the product description.
