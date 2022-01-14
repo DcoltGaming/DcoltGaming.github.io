@@ -36,7 +36,7 @@ From here, you will be able to load the index.html file.
 
 [(Back to top)](#table-of-contents)
 
-The code is principlally made up of four sections:
+The code is principally made up of four sections:
 
 ### The Navigation bar
 The code pulls all the HTML elements with the tag "section" and then this collection is looped through. With each pass, a li and a 'a' are set up, the h2 tag of the section is assigned as the name, and a 'href' to that section is created. The li is then appended to the 'ul' that makes up the navigation bar.
